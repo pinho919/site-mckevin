@@ -1,0 +1,84 @@
+body{
+    background-image: url(../IMG/);
+    background-color: rgb(0, 0, 0);
+}
+html{
+    background-color: rgb(253, 253, 253);
+}
+a{
+    color: rgb(0, 0, 0);
+}
+h1{
+    background-color: white;
+}
+.bio{
+    display: flex;
+    justify-content: space-around;
+
+    
+}
+.td{
+    color: white;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+}
+.titulo{
+    font-size: medium;
+    display: flex;
+    text-align: center;
+    width: 839px;
+    padding-left: 518px;
+}
+.img1{
+    width: 300px;
+    border: 5px solid white;
+}
+
+.img2{
+    width: 300px;
+    border: 5px solid white;
+}
+
+.img3{
+    width: 300px;
+    border: 5px solid white;
+}
+
+.img4{
+    width: 300px;
+    border: 5px solid white;
+}
+.img5{
+    width: 300px;
+    border: 5px solid white;
+}
+.img6{
+    width: 300px;
+    border: 5px solid white;
+}
+.img7{
+    width: 300px;
+    border: 5px solid white;
+}
+.img8{
+    width: 300px;
+    border: 5px solid white ;
+}
+.img9{
+    width: 300px;
+    border: 5px solid white ;
+}
+.img10{
+    width: 300px;
+    border: 5px solid white ;
+}
+.img11{
+    width: 300px;
+    border: 5px solid white ;
+}
+.img12{
+    width: 300px;
+    border: 5px solid white ;
+}
