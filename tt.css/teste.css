@@ -31,54 +31,26 @@ h1{
     width: 839px;
     padding-left: 518px;
 }
-.img1{
-    width: 300px;
-    border: 5px solid white;
+.musicas{
+
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    flex-wrap: wrap;
+    justify-content: left;
 }
 
-.img2{
+.musicas iframe{
     width: 300px;
-    border: 5px solid white;
 }
-
-.img3{
-    width: 300px;
-    border: 5px solid white;
+.img{
+    display: flex;
 }
-
-.img4{
+.img p{
     width: 300px;
-    border: 5px solid white;
-}
-.img5{
-    width: 300px;
-    border: 5px solid white;
-}
-.img6{
-    width: 300px;
-    border: 5px solid white;
-}
-.img7{
-    width: 300px;
-    border: 5px solid white;
-}
-.img8{
-    width: 300px;
-    border: 5px solid white ;
-}
-.img9{
-    width: 300px;
-    border: 5px solid white ;
-}
-.img10{
-    width: 300px;
-    border: 5px solid white ;
-}
-.img11{
-    width: 300px;
-    border: 5px solid white ;
-}
-.img12{
-    width: 300px;
-    border: 5px solid white ;
+    color: rgb(255, 255, 255);
+    margin: 1px;
+    padding-left: 10px;
+    width: 460px;
+    font-size: xx-large;
 }
